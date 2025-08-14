@@ -22,9 +22,6 @@ Backend: (se aplicável) Node.js / Python / PHP
 
 Banco de Dados: (opcional) SQLite / MySQL / LocalStorage
 
-📦 Como Instalar
-Opção 1: Uso Local
+👤 Autor
 
-Clone o repositório:
-
-git clone https://github.com/LucasACipriano/[calculadora-orcamento-pessoal](https://github.com/LucasACipriano/Calculadora-de-Or-amento-Pessoal/tree/main).git
+Desenvolvido por Lucas Alvarado Cipriano
